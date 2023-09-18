@@ -1,0 +1,7 @@
+Se debe elaborar un planos de definición de una pieza que se ha de elegir entre las 10 que se proponen. El plano debe contener:
+- Un cajetín y el marco, indicando la escala y todos los datos necesarios para su identificación.
+- Las vistas necesarias para su definición y una sección, al menos se deben realizar dos vistas y una sección.
+- Acotación de las vistas, de acuerdo a las normas y recomendaciones entregadas.
+- Tolerancias de las partes de la pieza donde se crea que es necesario.
+Se aconseja hacer el plano en DIN-A3, para poder utilizar una escala más grande y tener más facilidad para dibujar los detalles.
+El plazo de entrega finaliza el 4 de diciembre.
