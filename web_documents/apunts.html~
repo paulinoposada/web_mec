@@ -70,10 +70,11 @@
 			Vistes exercicis 2
 			</a></li>
 
+			<br>Materials
+
 			<li><a href="../documents/materiales_1.pdf">
 			Materiales 1
 			</a></li>
-
 
 			<li><a href="../documents/mec_materiales_alum.pdf">
 			Materiales 2 alumnes
@@ -99,14 +100,17 @@
 			Cuestionari materials met&agrave;llics
 			</a></li>
 
+			<br>Soldadura tub de coure
+
 			<li><a href="../documents/soldadura_cobre.pdf">
 			Soldadura de tubo de cobre
 			</a></li>
 
 			<li><a href="../documents/practica_soldadura_blanda.pdf">
 			Pr&aacute;ctica soldadura blanda
-
 			</a></li>
+
+			<br>Soldadura amb electrodes revestits
 
 			<li><a href="https://youtu.be/RpMTRhhhleI?si=rghID1cMpbf8B3Jp">
 			V&iacute;deo soldadura clase 1
@@ -132,6 +136,8 @@
 			Soldadura el&eacute;ctrica - electrodos 2
 			</a></li>
 
+			<br>Soldadura MIG MAG
+
 			<li><a href="https://youtu.be/laXJcA19WpI?si=0pHTDntGJ1OqexsG">
 			V&iacute;deo soldadura MIG/MAG 1
 			</a></li>
@@ -154,11 +160,11 @@
 			</a></li>
 
 
-
 			<li><a href="../documents/soldadura/preguntas_mig_mag.pdf">
 			Preguntas soldadura MIG MAG
 			</a></li>
 
+			<br>Soldadura TIG
 
 			<li><a href="https://youtu.be/VRCLY7Ach_0?feature=shared">
 			V&iacute;deo soldadura TIG - curso parte 1 Apasol
@@ -186,10 +192,13 @@
 			Preguntas soldadura TIG
 			</a></li>
 
+			<br>Pr&agrave;ctica cub
+
 			<li><a href="../documents/soldadura/practica_cub.pdf">
 			Pr&aacute;ctica cub - model informe pr&agrave;ctica
 			</a></li>
 
+			<br>Torn
 
 			<li><a href="https://deingenierias.com/torno/operaciones-en-el-torno/">
 			Torno teor&iacute;a 1 - Operacions de mecanitzat en torn
@@ -217,7 +226,27 @@
 			Exemple avaluaci&oacute; pr&agrave;ctica torn 1
 			</a></li>
 
+			<br>Contrucci&oacute; naval
 
+			<li><a href="https://sailandtrip.com/partes-de-un-barco/">
+			Partes de un barco - Sail and trip
+			</a></li>
+
+			<li><a href="https://sailandtrip.com/partes-del-barco-dimensiones/">
+			Dimensiones de un barco - Sail and trip
+			</a></li>
+
+			<li><a href="https://sailandtrip.com/estructura-de-un-barco/">
+			Estructura de un barco - Sail and trip
+			</a></li>
+
+			<li><a href="../documents/construccio_naval/apuntes_construccion_naval_01.pdf">
+			Construcci&oacute; naval 1
+			</a></li>
+
+			<li><a href="../documents/construccio_naval/apuntes_construccion_naval_02.pdf">
+			Construcci&oacute; naval 2
+			</a></li>
 
 			</ul>
 
